@@ -7,7 +7,7 @@ public class Main {
 
 		Hello H = new Hello();
 		
-		
+		System.out.println("Hey !!");
 		System.out.println(H.hello("HAPPY HOLIDAYSSS"));
 	}
 
