@@ -6,7 +6,9 @@ public class Main {
 		// TODO Auto-generated method stub
 
 		Hello H = new Hello();
-		System.out.println(H.hello("HAPPY HOLIDAYSSS123"));
+		
+		
+		System.out.println(H.hello("HAPPY HOLIDAYSSS"));
 	}
 
 }
